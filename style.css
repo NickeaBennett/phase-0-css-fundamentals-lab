@@ -3,3 +3,50 @@ body {
   height: 100%;
   margin: 0;
 }
+
+.header {
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.nav a {
+  padding: 10px;
+  background: gray;
+}
+
+.caption {
+  font-size: 10px;
+}
+
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 10px;
+}
+
+#details {
+  display: flex;
+  background: red;
+  
+}
+
+.col0 {
+  width: 25%;
+  margin-left: 200px;
+}
+
+.col1 {
+  width: 25%;
+}
+
+.col2 {
+  width: 25%;
+}
+
+.col3 {
+  width: 25%;
+}
